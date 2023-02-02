@@ -1,4 +1,4 @@
 # react-ecommerce
 
 - Projeto WeFit (JavaScript)
-- Ecommerce (ReactJS)
+- Ecommerce (ReactJS + TypeScript)
